@@ -58,7 +58,7 @@ This repository contains the code used to demonstrate during the talk. I hope yo
 * https://developpaper.com/why-is-rollup-more-suitable-for-packaging-libraries-than-webpack/
 * https://www.thetechplatform.com/post/rollup-vs-parcel-vs-webpack-which-is-the-best-bundler
 
-**Video Tutorial Reference 🎥**
+**Video Tutorial References 🎥**
 
 * https://www.learnwithjason.dev/blog/learn-rollup-js
 * [JavaScript Module Bundling with Webpack and Rollup](https://www.youtube.com/watch?v=pDjUOQ8yL88)
